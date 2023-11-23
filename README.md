@@ -88,62 +88,72 @@ my dream role is to work as machine learning engineer at Google
 
 <tr>
 <td>2</td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
+<td> Vodafone customer churn prediction </td>
+<td> Every company wants to increase its profit or revenue margin and customer retention is one key area industry players focus their resources. In today's world of machine learning, most companies build classification models to perform churn analysis on their customers. we were dealing with binary classification problem of customer churn prediction</td>
+<td> shared soon </td>
+<td> https://github.com/AGwillmkawy1/Vodafone-customer-churn-prediction/tree/main/vodafone_customer_churning_prediction</td>
+<td> https://github.com/AGwillmkawy1/Vodafone-customer-churn-prediction/tree/main/vodafone_customer_churning_prediction</td>
+<td> https://github.com/AGwillmkawy1/Vodafone-customer-churn-prediction/tree/main/vodafone_customer_churning_prediction</td>
 </tr>
 
 <tr>
 <td>3</td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
+<td> time series forecasting </td>
+<td> how can numbers in a spreadsheet tell us about present and past business activities, and how can we use them forecast the future? </td>
+<td> shared soon </td>
+<td> https://github.com/AGwillmkawy1/Time-series-forecasting-updated/tree/main/time_series_forecasting </td>
+<td> https://github.com/AGwillmkawy1/Time-series-forecasting-updated/tree/main/time_series_forecasting </td>
+<td> https://github.com/AGwillmkawy1/Time-series-forecasting-updated/tree/main/time_series_forecasting </td>
 </tr>
 
 <tr>
 <td>4</td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
+<td> Emdedding Machine learning model in gradio App </td>
+<td> This repository contains a machine learning-powered web application built using Gradio that predicts customer churn in the telecommunications industry. The app utilizes a pre-trained machine learning model to analyze input features such as customer tenure, monthly charges, and internet services to predict whether a customer is likely to churn or no </td>
+<td> shared soon </td>
+<td> https://github.com/AGwillmkawy1/Telco_Churn_Gradio_App-main/tree/main/Telco_Churn_Gradio_App-main </td>
+<td> https://github.com/AGwillmkawy1/Telco_Churn_Gradio_App-main </td>
+<td> https://github.com/AGwillmkawy1/Telco_Churn_Gradio_App-main/tree/main/Telco_Churn_Gradio_App-main </td>
+</tr>
+
+<tr>
+<td>4</td>
+<td> Embedding machine learning model in streamlit App </td>
+<td> This repository contains a machine learning-powered web application built using Streamlit that predicts Sales of Corporation Favorita </td>
+<td>  shared soon </td>
+<td> https://github.com/AGwillmkawy1/Sales-Prediction-App-- </td>
+<td> https://github.com/AGwillmkawy1/Sales-Prediction-App--/tree/main/Sales-Prediction-App-main </td>
+<td> https://github.com/AGwillmkawy1/Sales-Prediction-App--/tree/main/Sales-Prediction-App-main </td>
 </tr>
 
 <tr>
 <td>5</td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
+<td> Sentiment Analysis using NLP </td>
+<td> This repository focuses on developing a machine Learning model to assess if a twitter post that is related to vaccinations is positive, neutral, or negative. </td>
+<td> shared soon </td>
+<td> https://github.com/AGwillmkawy1/Covid_Vaccine_Sentiment_Analysis-1 </td>
+<td> https://github.com/AGwillmkawy1/Covid_Vaccine_Sentiment_Analysis-1/tree/main/Covid_Vaccine_Sentiment_Analysis-main </td>
+<td> https://github.com/AGwillmkawy1/Covid_Vaccine_Sentiment_Analysis-1/tree/main/Covid_Vaccine_Sentiment_Analysis-main </td>
 </tr>
 
 <tr>
 <td>6</td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
+<td> Embedding machine learning model in web application using FastAPI </td>
+<td> Sepsis prediction web app, embedding machine learning model in web app using fast api </td>
+<td> shared soon </td>
+<td> https://github.com/AGwillmkawy1/Sepsis-Prediction-FastApi- </td>
+<td> https://github.com/AGwillmkawy1/Sepsis-Prediction-FastApi-/tree/main/Sepsis-Prediction-FastApi-main </td>
+<td> https://github.com/AGwillmkawy1/Sepsis-Prediction-FastApi-/tree/main/Sepsis-Prediction-FastApi-main </td>
 </tr>
 
 <tr>
 <td>Capstsone</td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
+<td> EML model to predict customer churning </td>
+<td> Expresso is an African telecommunications company that provides customers with airtime and mobile data bundles. The objective of this challenge is to develop a machine learning model to predict the likelihood of each Expresso customer “churning,” i.e. becoming inactive and not making any transactions for 90 days.</td>
+<td> shared soon </td>
+<td> https://github.com/codedzifa/CAPSTONE </td>
+<td> https://github.com/codedzifa/CAPSTONE/blob/main/app.py</td>
+<td> https://github.com/codedzifa/CAPSTONE/blob/main/app.py </td>
 </tr>
 
 </tbody>
