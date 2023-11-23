@@ -1,29 +1,30 @@
 # DAP-Trainee-Story
-# 📈🧪 Data Analytics Program 🧠📊 : Story of *___trainee_name__*
-Here is the place to tell the story of your experience of the Data Analytics Program.
+# 📈🧪 Data Analytics Program 🧠📊 : Story of Jean Plaubert RUKUNDO
 
-**Instruction**: Fork the repo, name it `DAP-Trainee-StoRy_<your-username>`, fill and embellish this Readme file. *Remove this instruction when you are done.*
 
 ## Let me introduce Myself
-`Please provide a brief professional history before embarking on your data analytics journey (3 - 4 lines)'
+My name is Jean Plaubert RUKUNDO, my background was typically rooted in Software engineering student. I possessed solid foundation in software engineering, I cultivated a strong problem-solving mindset. My pursuit for excellence sparked the passionate interest in transitioning into the dynamic field of data analytics.
 
 ## How would I describe my experience in the data analytics program ? 
-`Please add text here...`
+I had best experience in all this data analytics program journey, ofcourse it was very challenging but worth dedicated time and a lot has been learnt. 
+I'm ready to be exposed to daily tasks realated with data science.
 
 ## How would I say the Career Accelerator phase has introduced me to when it comes to data analytics ? 
-`Please add text here...`
+Well, we had time of 6 months long to work on different projects, one at each month.
+and we used real data to work on those projects.
 
 ## What enticed me to join the Data Analytics Program?
-`Please add text here...`
+Well, I always wanted to know more about data science and I got a link from a friend who knew that I liked data science then I applied and thankfully, I got admitted.
+I worked hard to know more about data analysis, and machine learning, Power bi and so on.
 
 ## What would I say my progress in tech has been since joining the program ? 
-`Please add text here...`
+Well, Learnt how to work on project at a time until I become expertise in data science.
 
 ## What are my plans for the future ?
-`Please add text here...`
+Keeping on wokring on different project at a time while I'm looking for a job and build my own company of tech.
 
 ## What is my dream company or role ?
-`Please add text here...`
+Google as Data scientist
 
 ## 1st Phase Projects' Summary Table
 `Please add text here...`
