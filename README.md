@@ -162,51 +162,51 @@ my dream role is to work as machine learning engineer at Google
 ## AZUBI Interview 
 1. What advice will you give someone considering joining tech? 
 
-    `Reply here please.`
+    Well, nowdays technology is evolving. and it's becoming easier than it was. I would suggest everyone who want to pursue tech, if you want then you go for it and make whatever it takes to make it through.
+   stay hungry and stay humble to be able to learn something not only rely on what you already know.
 
 1. What did you think about the quality of teaching and level of assistance? 
 
-    `Reply here please.`
+    Well, At Azubi africa is supportive community and even for teachops
 
 1. What did you like most about the program? 
 
-    `Reply here please.`
+    Engineering Demo, in this we were able to know what teeachops team think about the program that we were trying to solve.
 
 1. Are the lectures engaging and interesting? 
 
-    `Reply here please.`
+    Ofcourse yes, they were always there to listen and assist.
 
 1. What happens if you miss a lecture? 
 
-    `Reply here please.`
+    we were having recorded videos saved on microsoft 365 which was good for that person to catch up faster.
 
 1. What do you think of the flexibility of the program? 
 
-    `Reply here please.`
+    the program was very flexible as long as you communicate to teachops
 
 1. Do the projects worked on help you test your ability / skills? 
 
-    `Reply here please.`
+    Well, projects were there to helps us learn more what we didn't know and it was very challening.
 
 1. What will you change about the program if you had a chance? 
 
-    `Reply here please.`
+    ask more questions and invest more time in it
 
 1. What do you think about the fees structure? 
 
-    `Reply here please.`
+    Well, I believe the fees structure is advantageous as it relieves the immediate financial burden, allowing individuals to focus on learning a new skill without the added pressure of immediate funding concerns
 
 1. Would you say Azubi Has Changed your life ? 
 
-    `Reply here please.`
+    Undoubtedly, The experience has reshaped not only my professional outlook but also my personal approach towards striving for greatness and constantly pushing my limits
 
 1. Do you think you have gained enough skills through our programme to land your dream job ? 
 
-    `Reply here please.`
+    Unddoubtedly, I gained enough skills to work on real world projects.
 
 
 ## My Contacts
-`Please add your contacts here...`
+Email: engplaubert@gmail.com
 
-**NB:**
-Feel free to add more sections if you want to share some thoughts or personal works, etc.
+
