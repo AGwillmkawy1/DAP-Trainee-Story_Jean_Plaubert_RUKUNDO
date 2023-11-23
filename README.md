@@ -46,16 +46,16 @@ my dream role is to work as machine learning engineer at Google
 
 <tr>
 <td>2</td>
-<td> </td>
-<td> </td>
-<td> </td>
+<td> Sales and Production Operations Planning. </td>
+<td> Sales and Production Operations Planning with Python</td>
+<td> We use python programming language to make this program work. </td>
 </tr>
 
 <tr>
 <td>3</td>
-<td> </td>
-<td> </td>
-<td> </td>
+<td> Caesar-s-cipher_encryption_and_decryption  </td>
+<td> this program was built to encrypt and decrypt any information which is decrypted and encrypted being input in our program to encrypt or decrypt it. </td>
+<td> We use python programming language to make this program work. </td>
 </tr>
 
 </tbody>
