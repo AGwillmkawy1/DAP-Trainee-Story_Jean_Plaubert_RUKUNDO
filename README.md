@@ -78,7 +78,8 @@ my dream role is to work as machine learning engineer at Google
 <tr>
 <td>1</td>
 <td> Indian startup funding </td>
-<td> In this project, we were to analyze the funding received by start-ups in India from 2018 to 2021. Our goal is to investigate the Indian start-up ecosystem and propose the best course of action for our team's venture into this market.</td>
+<td> In this project, we were to analyze the funding received by start-ups in India from 2018 to 2021. 
+    Our goal is to investigate the Indian start-up ecosystem and propose the best course of action for our team's venture into this market.</td>
 <td> shared soon </td>
 <td> https://github.com/AGwillmkawy1/Indian-Start-Up-funding/blob/main/Indian_Start-ups_funding_project.ipynb.</td>
 <td> https://github.com/AGwillmkawy1/Indian-Start-Up-funding/blob/main/Indian_Start-ups_funding_project.ipynb</td>
