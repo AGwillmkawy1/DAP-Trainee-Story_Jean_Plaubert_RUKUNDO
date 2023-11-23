@@ -18,16 +18,16 @@ Well, I always wanted to know more about data science and I got a link from a fr
 I worked hard to know more about data analysis, and machine learning, Power bi and so on.
 
 ## What would I say my progress in tech has been since joining the program ? 
-Well, Learnt how to work on project at a time until I become expertise in data science.
+Well, Learnt how to work on project at a time until I become expertise in data science and machine learning.
 
 ## What are my plans for the future ?
 Keeping on wokring on different project at a time while I'm looking for a job and build my own company of tech.
 
 ## What is my dream company or role ?
-Google as Data scientist
+my dream role is to work as machine learning engineer at Google
 
 ## 1st Phase Projects' Summary Table
-`Please add text here...`
+
 <table style="width: 1%;" border="1" cellpadding="1">
 <tbody>
 <tr>
@@ -39,9 +39,9 @@ Google as Data scientist
 
 <tr>
 <td>1</td>
-<td> </td>
-<td>Add the project description here...</td>
-<td>Add any additional info here...</td>
+<td> Inventory management system </td>
+<td> Inventory management program that utilizes functions, loops, and dictionaries in order to achieve this. </td>
+<td> We used python programming language to make this program work. </td>
 </tr>
 
 <tr>
